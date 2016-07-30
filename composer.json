@@ -9,6 +9,8 @@
         "module",
         "zf2"
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors":     [
         {
             "name": "Kyle Spraggs",
